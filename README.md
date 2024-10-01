@@ -5,6 +5,6 @@
 ## 시연영상
 <tr>
   <td width="300" align="center">
-<img src="[https://user-images.githubusercontent.com/70789958/202612079-5091e162-e428-4d8a-9b3d-fecad5435ec8.gif](https://github.com/user-attachments/assets/410b25e5-273b-48e8-97f0-d20c1140933f)">
-</td>
+<img src="https://github.com/user-attachments/assets/410b25e5-273b-48e8-97f0-d20c1140933f">
+  </td>
 </tr>
