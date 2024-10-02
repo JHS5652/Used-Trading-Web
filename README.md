@@ -103,7 +103,7 @@
 </table>
 
 ## ERD
-
+![thing](https://github.com/user-attachments/assets/b4e2f46b-1b81-4bad-a82e-66952cd18ce6)
 
 ## 보고서
   + [20195261-스마트IOT-지현석-최종보고서.pdf](https://github.com/user-attachments/files/17191968/20195261-.IOT-.-.pdf)
