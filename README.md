@@ -9,20 +9,20 @@
 - 회원은 자신이 등록한 물품들을 관리할 수 있습니다.
 
 ## 📽️ 기능 화면
-+ 로그인 페이지
- ![로그인페이지](https://github.com/user-attachments/assets/15502a0b-5127-497c-8400-55b4b6e86edf)
-+ 메인 페이지
- ![진짜 메인페이지](https://github.com/user-attachments/assets/5fd66b3e-0e79-4801-b00c-3d87f317f8ad)
+> 로그인 페이지
+>  ![로그인페이지](https://github.com/user-attachments/assets/15502a0b-5127-497c-8400-55b4b6e86edf)
+> 메인 페이지
+>  ![진짜 메인페이지](https://github.com/user-attachments/assets/5fd66b3e-0e79-4801-b00c-3d87f317f8ad)
 + 물품 조회 페이지
- ![메인페이지](https://github.com/user-attachments/assets/cd4d8cd0-140c-461f-9c90-78fa3b38484c)
++ ![메인페이지](https://github.com/user-attachments/assets/cd4d8cd0-140c-461f-9c90-78fa3b38484c)
 + 제품 등록 페이지
- ![제품 등록 페이지](https://github.com/user-attachments/assets/2ecb5ea3-3157-4c31-9032-8aa625614a1c)
++ ![제품 등록 페이지](https://github.com/user-attachments/assets/2ecb5ea3-3157-4c31-9032-8aa625614a1c)
 + 물품 정보 업데이트
- ![물품업데이트](https://github.com/user-attachments/assets/368b894c-9cb2-467f-82cc-514c5be462ad)
++ ![물품업데이트](https://github.com/user-attachments/assets/368b894c-9cb2-467f-82cc-514c5be462ad)
 + 회원이 등록한 물품 조회 페이지
- ![자기물품](https://github.com/user-attachments/assets/03b4a4a0-f4be-4243-9807-3e8a8cb7e1ed)
++ ![자기물품](https://github.com/user-attachments/assets/03b4a4a0-f4be-4243-9807-3e8a8cb7e1ed)
 + 관리자 페이지
- ![관리자 페이지](https://github.com/user-attachments/assets/0e9dbc63-96b5-4e40-a2aa-a29571a3065d)
++ ![관리자 페이지](https://github.com/user-attachments/assets/0e9dbc63-96b5-4e40-a2aa-a29571a3065d)
 ## ERD
 
 
