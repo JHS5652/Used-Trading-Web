@@ -9,20 +9,97 @@
 - 회원은 자신이 등록한 물품들을 관리할 수 있습니다.
 
 ## 📽️ 기능 화면
-> 로그인 페이지
->>  ![로그인페이지](https://github.com/user-attachments/assets/15502a0b-5127-497c-8400-55b4b6e86edf)
-> 메인 페이지
->>  ![진짜 메인페이지](https://github.com/user-attachments/assets/5fd66b3e-0e79-4801-b00c-3d87f317f8ad)
-> 물품 조회 페이지
->> ![메인페이지](https://github.com/user-attachments/assets/cd4d8cd0-140c-461f-9c90-78fa3b38484c)
-+ 제품 등록 페이지
-+ ![제품 등록 페이지](https://github.com/user-attachments/assets/2ecb5ea3-3157-4c31-9032-8aa625614a1c)
-+ 물품 정보 업데이트
-+ ![물품업데이트](https://github.com/user-attachments/assets/368b894c-9cb2-467f-82cc-514c5be462ad)
-+ 회원이 등록한 물품 조회 페이지
-+ ![자기물품](https://github.com/user-attachments/assets/03b4a4a0-f4be-4243-9807-3e8a8cb7e1ed)
-+ 관리자 페이지
-+ ![관리자 페이지](https://github.com/user-attachments/assets/0e9dbc63-96b5-4e40-a2aa-a29571a3065d)
+<table align="center">
+<thead>
+<tr margin-bottom=3px>
+<td width="300" align="center">
+<b style="color:#8fe3d9">로그인 페이지<b>
+</td>
+<td width="300" align="center">
+<b>
+메인페이지
+</b>
+</td>
+</tr>
+</thead>
+  
+<tbody>
+<tr>
+<td width="300" align="center">
+<img src="https://github.com/JHS5652/image/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350">
+</td>
+<td width="300" align="center">
+<img src="https://github.com/JHS5652/image/blob/main/%EC%A7%84%EC%A7%9C%20%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350">
+</td>
+</tr>
+  
+<tr>
+<td width="300" align="center">
+<b>
+물품 조회 페이지
+</b>
+</td>
+<td width="300" align="center">
+<b>
+제품 등록 페이지
+</b>
+</td>
+</tr>
+
+<tr>
+<td width="300" align="center">
+<img src= "https://github.com/JHS5652/image/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350" > 
+</td>
+<td width="300" align="center">
+<img src= "[![제품 등록 페이지](https://github.com/user-attachments/assets/2ecb5ea3-3157-4c31-9032-8aa625614a1c)](https://github.com/JHS5652/image/blob/main/%EC%A0%9C%ED%92%88%20%EB%93%B1%EB%A1%9D%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)" width="350" >
+</td>
+</tr>
+
+<tr>
+<td width="300" align="center">
+<b>
+회원이 등록한 물품 조회 페이지
+
+</b>
+</td>
+<td width="300" align="center">
+<b>
+물품 정보 업데이트
+</b>
+</td>
+</tr>
+<tr>
+<td width="300" align="center">
+<img src="https://github.com/JHS5652/image/blob/main/%EC%9E%90%EA%B8%B0%EB%AC%BC%ED%92%88.png?raw=true" width="350">
+</td>
+<td width="300" align="center">
+<img src="https://github.com/JHS5652/image/blob/main/%EB%AC%BC%ED%92%88%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8.png?raw=true" width="350">
+</td>
+</tr>
+
+
+<tr>
+<td width="300" align="center">
+<b>
+관리자 페이지
+</b>
+</td>
+<td width="300" align="center">
+</td>
+</tr>
+<tr>
+<td width="300" align="center">
+<img src="https://github.com/JHS5652/image/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%90%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350">
+</td>
+  
+<td width="300" align="center">
+</td>
+</tr>
+
+
+</tbody>
+</table>
+
 ## ERD
 
 
