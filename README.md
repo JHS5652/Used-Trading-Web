@@ -10,7 +10,7 @@
 
 ## 📽️ 기능 화면
 <table align="center">
-<thead>
+<tbody>
 <tr margin-bottom=3px>
 <td width="300" align="center">
 <b style="color:#8fe3d9">로그인 페이지<b>
@@ -21,9 +21,6 @@
 </b>
 </td>
 </tr>
-</thead>
-  
-<tbody>
 <tr>
 <td width="300" align="center">
 <img src="https://github.com/JHS5652/image/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350">
