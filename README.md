@@ -51,7 +51,7 @@
 <img src= "https://github.com/JHS5652/image/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350" > 
 </td>
 <td width="300" align="center">
-<img src= "[![제품 등록 페이지](https://github.com/user-attachments/assets/2ecb5ea3-3157-4c31-9032-8aa625614a1c)](https://github.com/JHS5652/image/blob/main/%EC%A0%9C%ED%92%88%20%EB%93%B1%EB%A1%9D%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true)" width="350" >
+<img src= "https://github.com/JHS5652/image/blob/main/%EC%A0%9C%ED%92%88%20%EB%93%B1%EB%A1%9D%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350" >
 </td>
 </tr>
 
