@@ -12,10 +12,10 @@
 <table align="center">
 <thead>
 <tr>
-<td width="300" align="center">
+<td width="500" align="center">
 <b>로그인 페이지<b>
 </td>
-<td width="300" align="center">
+<td width="500" align="center">
 <b>
 메인페이지
 </b>
@@ -27,21 +27,21 @@
 <tbody>
 
 <tr>
-<td width="300" align="center">
+<td width="500" align="center">
 <img src="https://github.com/JHS5652/image/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350">
 </td>
-<td width="300" align="center">
+<td width="500" align="center">
 <img src="https://github.com/JHS5652/image/blob/main/%EC%A7%84%EC%A7%9C%20%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350">
 </td>
 </tr>
   
 <tr>
-<td width="300" align="center">
+<td width="500" align="center">
 <b>
 물품 조회 페이지
 </b>
 </td>
-<td width="300" align="center">
+<td width="500" align="center">
 <b>
 제품 등록 페이지
 </b>
@@ -49,52 +49,52 @@
 </tr>
 
 <tr>
-<td width="300" align="center">
+<td width="500" align="center">
 <img src= "https://github.com/JHS5652/image/blob/main/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350" > 
 </td>
-<td width="300" align="center">
+<td width="500" align="center">
 <img src= "https://github.com/JHS5652/image/blob/main/%EC%A0%9C%ED%92%88%20%EB%93%B1%EB%A1%9D%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350" >
 </td>
 </tr>
 
 <tr>
-<td width="300" align="center">
+<td width="500" align="center">
 <b>
 회원이 등록한 물품 조회 페이지
 
 </b>
 </td>
-<td width="300" align="center">
+<td width="500" align="center">
 <b>
 물품 정보 업데이트
 </b>
 </td>
 </tr>
 <tr>
-<td width="300" align="center">
+<td width="500" align="center">
 <img src="https://github.com/JHS5652/image/blob/main/%EC%9E%90%EA%B8%B0%EB%AC%BC%ED%92%88.png?raw=true" width="350">
 </td>
-<td width="300" align="center">
+<td width="500" align="center">
 <img src="https://github.com/JHS5652/image/blob/main/%EB%AC%BC%ED%92%88%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8.png?raw=true" width="350">
 </td>
 </tr>
 
 
 <tr>
-<td width="300" align="center">
+<td width="500" align="center">
 <b>
 관리자 페이지
 </b>
 </td>
-<td width="300" align="center">
+<td width="500" align="center">
 </td>
 </tr>
 <tr>
-<td width="300" align="center">
+<td width="500" align="center">
 <img src="https://github.com/JHS5652/image/blob/main/%EA%B4%80%EB%A6%AC%EC%9E%90%20%ED%8E%98%EC%9D%B4%EC%A7%80.png?raw=true" width="350">
 </td>
   
-<td width="300" align="center">
+<td width="500" align="center">
 </td>
 </tr>
 
