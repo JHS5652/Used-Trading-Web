@@ -11,9 +11,9 @@
 ## 📽️ 기능 화면
 <table align="center">
 <thead>
-<tr margin-bottom=3px>
+<tr>
 <td width="300" align="center">
-<b style="color:#8fe3d9">로그인 페이지<b>
+<b>로그인 페이지<b>
 </td>
 <td width="300" align="center">
 <b>
