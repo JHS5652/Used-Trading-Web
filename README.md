@@ -10,11 +10,11 @@
 
 ## 📽️ 기능 화면
 > 로그인 페이지
->  ![로그인페이지](https://github.com/user-attachments/assets/15502a0b-5127-497c-8400-55b4b6e86edf)
+>>  ![로그인페이지](https://github.com/user-attachments/assets/15502a0b-5127-497c-8400-55b4b6e86edf)
 > 메인 페이지
->  ![진짜 메인페이지](https://github.com/user-attachments/assets/5fd66b3e-0e79-4801-b00c-3d87f317f8ad)
-+ 물품 조회 페이지
-+ ![메인페이지](https://github.com/user-attachments/assets/cd4d8cd0-140c-461f-9c90-78fa3b38484c)
+>>  ![진짜 메인페이지](https://github.com/user-attachments/assets/5fd66b3e-0e79-4801-b00c-3d87f317f8ad)
+> 물품 조회 페이지
+>> ![메인페이지](https://github.com/user-attachments/assets/cd4d8cd0-140c-461f-9c90-78fa3b38484c)
 + 제품 등록 페이지
 + ![제품 등록 페이지](https://github.com/user-attachments/assets/2ecb5ea3-3157-4c31-9032-8aa625614a1c)
 + 물품 정보 업데이트
