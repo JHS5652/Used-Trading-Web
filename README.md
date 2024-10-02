@@ -122,6 +122,4 @@
 
 
 ## 시연영상
-<tr>
-  https://github.com/user-attachments/assets/410b25e5-273b-48e8-97f0-d20c1140933f
-</tr>
+https://github.com/user-attachments/assets/410b25e5-273b-48e8-97f0-d20c1140933f
